@@ -1,12 +1,13 @@
 # SEO Keyword Cleaner
 Script that helps users clean their SEO CSV files.
 
-# Instructions
+# IMPORTANT
 
 ## Python3 required
 
-# IMPORTANT
-For all input CSV file there MUST be ONE column to search in for key, otherwise the script will fail, because it searches in first column of the input file so format your origin CSV file following the rule: 1° COLUMN -> 1 ROW TO COMPARE
+## For all input CSV file there MUST be ONE column to search in for key, otherwise the script will fail, because it searches in first column of the input file so format your origin CSV file following the rule: 1° COLUMN -> 1 ROW TO COMPARE
+
+# Instructions
 
 To start the helper type: ```python3 cleaner.py```
 
